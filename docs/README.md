@@ -44,9 +44,9 @@ This creates five CSV files in the `data/` directory:
 
 ### 3. Build Your Model
 
-See [docs/instruction.md](docs/instruction.md) for detailed competition instructions.
+See [docs/instruction.md](instruction.md) for detailed competition instructions.
 
-See [docs/golden_workflow.md](docs/golden_workflow.md) for comprehensive ML reasoning and best practices.
+See [docs/golden_workflow.md](golden_workflow.md) for comprehensive ML reasoning and best practices.
 
 ### 4. Score Your Submission
 
@@ -147,7 +147,7 @@ Predict the probability of loan default for each loan in the test set.
 
 ## Documentation
 
-### [Dataset Card](docs/dataset_card.md)
+### [Dataset Card](dataset_card.md)
 Comprehensive documentation including:
 - Data generation methodology
 - Feature descriptions
@@ -156,7 +156,7 @@ Comprehensive documentation including:
 - Ethical considerations
 - Why the dataset is non-trivial
 
-### [Competition Instructions](docs/instruction.md)
+### [Competition Instructions](instruction.md)
 Complete instructions for participants:
 - Dataset description
 - Submission format requirements
@@ -164,7 +164,7 @@ Complete instructions for participants:
 - Important constraints
 - Baseline performance ranges
 
-### [Golden Workflow](docs/golden_workflow.md)
+### [Golden Workflow](golden_workflow.md)
 In-depth ML reasoning including:
 - Data sanity checks
 - Proper validation strategy (GroupKFold)
@@ -275,7 +275,7 @@ MIT License
 
 Copyright (c) 2026 Project Carrot ML Benchmarking Team
 
-See [dataset_card.md](docs/dataset_card.md) for full license text.
+See [dataset_card.md](dataset_card.md) for full license text.
 
 ## Citation
 
